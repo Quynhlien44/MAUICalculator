@@ -58,7 +58,7 @@ The application is structured following the **MVVM (Model-View-ViewModel)** patt
 2. **Install Required Packages**
    - In your **IDE** (e.g., Visual Studio 2022), restore the NuGet packages:
      - `Dangl.Calculator`
-     - `PropertyChanged.Fody`
+     - `PropertyChanged`
 
 3. **Build and Run**
    - Open the project in Visual Studio 2022 or your preferred MAUI-compatible IDE.
