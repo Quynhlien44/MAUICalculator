@@ -52,7 +52,7 @@ The application is structured following the **MVVM (Model-View-ViewModel)** patt
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/your-repo/maui-mvvm-calculator.git
-   cd maui-mvvm-calculator
+   cd MAUICalculator
    ```
 
 2. **Install Required Packages**
