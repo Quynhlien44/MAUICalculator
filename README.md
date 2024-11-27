@@ -76,9 +76,4 @@ The application is structured following the **MVVM (Model-View-ViewModel)** patt
    - **Reset**: Press `C` to reset both the formula and result to their initial states.
    - **Backspace**: Use the backspace button to remove the last character or operator from the formula.
 
-
 ---
-
-## License
-
-This project is licensed under the MIT License.
